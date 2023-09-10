@@ -1,7 +1,7 @@
 # System That Collects Competencies in Resumes Best Suitable for the Position in the Job Advertisement by Web Scraping
 The subject of this study is to design a dynamic and efficient system, such as the CV screening software used by HR employees in companies seeking employees. The aim of the study is to reach the desired result by scanning the web and to explain it in the best way and to bring a respectable study to the Turkish literature. In the study, primarily the subject and description of the projects and the programming language data used by the users on GitHub in their projects were collected and processed by web browsing. From these data, the user's programming language ability is considered the core competency. Then, web software specialist job posting on Baykar website was collected by web browsing. When the system is started, the GitHub username to be added is entered. As a result, the most matching competencies of the user with the required qualifications in the job posting are found and displayed.
-![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/6c8d0ac1-e9f6-4f88-9047-88642c62a7ce)
+![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/9dd77785-2879-4463-9f86-1ca29637a382)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/f6fa7694-1bc1-44db-8e2e-d0d63845db5f)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/424ea525-d9ec-49cb-b714-f39797441f9b)
-![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/44e94320-d3e1-4136-942e-88bdf2deb24d)
-![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/49e82070-216f-4394-b30e-6c81325ffda3)
+![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/4845ae35-c90f-4317-a5ff-e99666dfc418)
+![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/432a90a4-ca56-4c06-ac5a-e695fa4ea9f1)
