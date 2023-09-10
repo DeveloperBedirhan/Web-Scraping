@@ -3,5 +3,5 @@ The subject of this study is to design a dynamic and efficient system, such as t
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/5692135a-4ab3-4e9f-b8c3-fd7bb9b88e35)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/f6fa7694-1bc1-44db-8e2e-d0d63845db5f)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/424ea525-d9ec-49cb-b714-f39797441f9b)
-![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/5af18ac5-e168-4477-bdbe-1602b84705e4)
+![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/a045dd3a-7cf6-4eed-aa2f-da1cea1c9180)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/c5052b57-57d0-4761-984a-e31af8410fe5)
