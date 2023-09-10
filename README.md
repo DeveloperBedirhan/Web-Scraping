@@ -8,5 +8,5 @@ Bu çalışmada, Python’daki requests kütüphanesi kullanılarak Baykar web s
 Bu projede özgemişleri toplama işlemi GitHub adresinden gerçekleşmiştir. GitHub, yazılım geliştirme projelerini barındıran ve yöneten web tabanlı bir platformdur. GitHub platformundaki kullanıcıların, repositories alanında ilk sayfada bulunan projelerindeki Şekil 3.2’de gösterilen kutucuk içindeki veriler toplanmıştır. Bu veriler, projenin konusu ve açıklaması ile projede kullanılan programlama dilini ifade eder. Bu projelerde kullanılan programlama dilleri kullanıcıların yetkinlikleri olarak kabul edilecek ve iş ilanındaki pozisyona uygunlukları değerlendirilecektir.
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/f6fa7694-1bc1-44db-8e2e-d0d63845db5f)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/424ea525-d9ec-49cb-b714-f39797441f9b)
-![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/13aa1ff5-7662-490a-ba0e-590a0d9f8af8)
+![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/2208472e-762b-4ecf-b3b6-d6cd01d8f89f)
 ![image](https://github.com/DeveloperBedirhan/Web-Scraping/assets/77440477/432a90a4-ca56-4c06-ac5a-e695fa4ea9f1)
